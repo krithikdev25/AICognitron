@@ -6,7 +6,7 @@ function Team() {
     {
       image: "/assets/team/hod_2026.jpg",
       title: "Dr.Muthusenthil",
-      subtitle: "Head of the Department",
+      subtitle: "Chief Innovation Founder",
       handle: "@muthusenthil",
       borderColor: "#4F46E5",
       gradient: "linear-gradient(145deg, #4F46E5, #000)",
